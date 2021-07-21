@@ -1,0 +1,2 @@
+This package demonstrates on how to achive following: make column of the grid to accomodate different types of entries.
+More details can be found here: https://blog.zaletskyy.com/post/2021/03/29/dynamically-changing-a-selector-for-a-given-data-record-in-grid-for-acumatica

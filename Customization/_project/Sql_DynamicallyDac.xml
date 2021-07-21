@@ -1,0 +1,10 @@
+﻿<Sql TableName="DynamicallyDac" TableSchemaXml="#CDATA">
+    <CDATA name="TableSchemaXml"><![CDATA[<table name="DynamicallyDac">
+  <col name="Value" type="NVarChar(60)" nullable="true" />
+  <col name="Index" type="Int" />
+  <col name="Type" type="NVarChar(50)" nullable="true" />
+  <index name="PK_DynamicallyDac" clustered="true" primary="true" unique="true">
+    <col name="Index" />
+  </index>
+</table>]]></CDATA>
+</Sql>
